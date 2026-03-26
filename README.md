@@ -39,12 +39,12 @@
 ### More-More About Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haidong2k3&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haidong2k3&theme=default&show_icons=true&hide_border=false&count_private=true" />
 </p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/haidong2k3?ext=heatmap" width="53%" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=haidong2k3&theme=blueberry&disable_animations=false&show_icons=true&force_username=true" width="44%" style="margin-left:10px"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=haidong2k3&theme=default&disable_animations=false&show_icons=true&force_username=true)" width="44%" style="margin-left:10px"/>
 </p>
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidong2k3) -->
