@@ -39,7 +39,7 @@
 ### More-More About Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haidong2k3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haidong2k3&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
 </p>
 
 <p align="center">
