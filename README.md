@@ -6,8 +6,6 @@
 - Currently building AI-powered applications and learning system design.
 
 ![Github - Profile view counter](https://komarev.com/ghpvc/?username=haidong2k3)
-<img src="https://img.shields.io/github/followers/zennomi?label=Follow&style=social" alt="GitHub followers" />
-
 
 ---
 ### More About Me
@@ -38,15 +36,15 @@
 
 
 ---
-### More More About Me
+### More-More About Me
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haidong2k3" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/haidong2k3?ext=heatmap" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=haidong2k3&theme=blueberry&disable_animations=false&show_icons=true&force_username=true" />
+  <img src="https://leetcard.jacoblin.cool/haidong2k3?ext=heatmap" width="53%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=haidong2k3&theme=blueberry&disable_animations=false&show_icons=true&force_username=true" width="44%" style="margin-left:10px"/>
 </p>
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidong2k3) -->
