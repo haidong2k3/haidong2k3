@@ -19,6 +19,7 @@
         &middot; <a href="https://x.com/haidong2k3">X</a>
         &middot; <a href="https://www.facebook.com/duong.hai.ong.911027/">Facebook</a>
         &middot; <a href="">Youtube</a>
+        &middot; <a href="">Tiktok</a>
         <!-- &middot; <a href="https://www.linkedin.com/in/hdong-duong/">Telegram</a> -->
         &middot;
     </b>
