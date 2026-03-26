@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/haidong2k3?ext=heatmap" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=haidong2k3" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=haidong2k3](https://codeforces-readme-stats.vercel.app/api/card?username=haidong2k3&theme=blueberry&disable_animations=false&show_icons=true&force_username=true)" />
 </p>
 
   
