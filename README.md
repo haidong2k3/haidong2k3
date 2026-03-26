@@ -38,26 +38,18 @@
 
 
 ---
-### More more about me
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidong2k3) -->
-
+### More More About Me
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haidong2k3" />
 </p>
 
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/haidong2k3?ext=heatmap" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=haidong2k3](https://codeforces-readme-stats.vercel.app/api/card?username=haidong2k3&theme=blueberry&disable_animations=false&show_icons=true&force_username=true" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=haidong2k3&theme=blueberry&disable_animations=false&show_icons=true&force_username=true" />
 </p>
 
-  
-
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haidong2k3) -->
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/haidong2k3?ext=heatmap) -->
 <!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=haidong2k3&theme=blueberry&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/haidong2k3) -->
-
-
-
 <!-- ![](https://leetcard.jacoblin.cool/haidong2k3?ext=contest) -->
