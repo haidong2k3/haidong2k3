@@ -40,7 +40,7 @@
 ### More-More About Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haidong2k3&theme=radical&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=haidong2k3&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
