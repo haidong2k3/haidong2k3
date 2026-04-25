@@ -29,6 +29,7 @@
     <b>
         &middot; <a href="https://leetcode.com/u/haidong2k3/">Leetcode</a>
         &middot; <a href="https://codeforces.com/profile/haidong2k3">Codeforces</a>
+        &middot; <a href="https://huggingface.co/haidong2k3">Hugging Face</a>
         <!-- &middot; <a href="https://www.hackerrank.com/profile/haidong2k3">Hackkerrank</a> -->
         <!-- &middot; <a href="https://oj.vnoi.info/user#">VNOI</a> -->
         &middot;
