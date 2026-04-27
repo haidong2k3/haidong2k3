@@ -20,7 +20,6 @@
         &middot; <a href="https://www.facebook.com/duong.hai.ong.911027/">Facebook</a>
         &middot; <a href="">Youtube</a>
         &middot; <a href="">Tiktok</a>
-        <!-- &middot; <a href="https://www.linkedin.com/in/hdong-duong/">Telegram</a> -->
         &middot;
     </b>
 </p>
@@ -29,6 +28,7 @@
     <b>
         &middot; <a href="https://leetcode.com/u/haidong2k3/">Leetcode</a>
         &middot; <a href="https://codeforces.com/profile/haidong2k3">Codeforces</a>
+        &middot; <a href="https://www.kaggle.com/dongduongh">Kaggle</a>
         &middot; <a href="https://huggingface.co/haidong2k3">Hugging Face</a>
         <!-- &middot; <a href="https://www.hackerrank.com/profile/haidong2k3">Hackkerrank</a> -->
         <!-- &middot; <a href="https://oj.vnoi.info/user#">VNOI</a> -->
