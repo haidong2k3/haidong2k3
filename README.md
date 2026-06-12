@@ -9,6 +9,7 @@
 
 ---
 ### More About Me
+- Languages: Vietnamese, English, French, Chinese
 - Email: dongduong2323@gmail.com
 - Phone: (+84) 363-222-449
 - Blog: (on writting)
