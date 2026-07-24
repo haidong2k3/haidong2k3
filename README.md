@@ -1,7 +1,7 @@
 ## Hello, World! I'm Dylan 👋
 
 ### About Me
-- A lifelong learner, a software developer, an AI engineer & reseacher.
+- A lifelong learner, a software developer, an AI engineer and a CS reseacher.
 - Passionate in problems solving, building things and artificial intelligence.
 - Currently building AI-powered applications and learning system design.
 
