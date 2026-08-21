@@ -19,7 +19,7 @@
         &middot; <a href="https://www.linkedin.com/in/hdong-duong/">LinkedIn</a>
         &middot; <a href="https://x.com/haidong2k3">X</a>
         <!-- &middot; <a href="https://www.facebook.com/duong.hai.ong.911027/">Facebook</a> -->
-        <!-- &middot; <a href="https://www.youtube.com/@haidong2k3">Youtube</a> -->
+        &middot; <a href="https://www.youtube.com/@dhd23lab">Youtube</a>
         <!-- &middot; <a href="https://www.tiktok.com/@haidong2k3.dev">Tiktok</a> -->
         &middot;
     </b>
